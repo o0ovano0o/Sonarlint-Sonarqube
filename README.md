@@ -5,7 +5,8 @@
     <li>Đỗ Minh Anh</li>
     <li>Trần Thị Thu Trang</li>
   </ul>
-<h3> Công tụ SonarLint (Sonarqube)
+  <h3> Công tụ SonarLint (Sonarqube) <a href="https://www.sonarlint.org/"> xem thêm</a>
   <h4>file test:  SARD-testsuite-64 (27 testcase) - nhóm chọn file test này vì máy bộ nhớ không đủ chạy file juliet test
   <h4>Kết quả</h4>
+    <img src="/SonarLint.PNG"/>
     
